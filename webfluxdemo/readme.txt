@@ -1,0 +1,4 @@
+https://spring.io/guides/gs/reactive-rest-service/
+https://www.baeldung.com/spring-webflux
+https://www.youtube.com/watch?v=M3jNn3HMeWg
+https://www.youtube.com/watch?v=27Lg96EwPEg
